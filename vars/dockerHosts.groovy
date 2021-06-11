@@ -1,3 +1,3 @@
-def call(String name = 'mr') {
-		echo name;
+def call() {
+  return "https://dockerhub.com";
 }
